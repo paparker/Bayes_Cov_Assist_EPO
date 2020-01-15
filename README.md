@@ -1,1 +1,1 @@
-# Bayes_Cov_Assist_EPO
+This code is used to apply Bayesian covariate-assisted external parameter orthogonalization. See [Predicting Profile Soil Properties with Reflectance Spectra via Bayesian Covariate-Assisted External Parameter Orthogonalization](https://www.mdpi.com/1424-8220/18/11/3869) for reference.
